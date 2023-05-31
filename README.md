@@ -1,4 +1,5 @@
 # University-projects
+Data Analysis/Object classification_HOSVD
 Handwritten digit classification using higher order singular value decomposition
 
 Recreation of an article "Handwritten digit classification using higher order singular value
