@@ -9,3 +9,7 @@ decomposition" by L. Elden and B. Savas (Science Direct, 2006.), consisting of a
 *Data Analysis/Synonym exctraction*
 
 Synonym extraction from a monolingual dictionary "index.txt". This project is mostly based on "A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching" by Vincent D. Blondel, Anahı Gajardo, Maureen Heymans, Pierre Senellart and Paul Van Dooren. 
+
+*Data Analysis/Image classification*
+
+Tensor-based algorithm for image classification applied on MNIST and MNIST Fashion datasets. The work is based on article "Tensor-Based Algorithms for Image Classification" by Stefan Klus and Patrick Gelß 
